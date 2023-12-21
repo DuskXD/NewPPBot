@@ -8,7 +8,7 @@ import botmenu
 
 from Singleton import Singleton
 
-# import requests
+# import requesшьts
 # import time
 # import datetime
 # import json
