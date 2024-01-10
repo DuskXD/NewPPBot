@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 leader_id_api_url_auth = 'https://apps.leader-id.ru/api/v1/oauth/token'
-leader_id_api_url_events = 'https://apps.leader-id.ru/api/v1/events'
+leader_id_api_url_events = 'https://apps.leader-id.ru/api/v1/events' # ссылка для поиска мероприятий
 client_id = 'fce7f1d5-c662-4f8a-bf44-0915e81687e9'
 client_secret = 'kFpy0P3obIC6UPuafXC664gL41zo2P7n'
 redirect_uri = 'http://your_redirect_uri.com'
